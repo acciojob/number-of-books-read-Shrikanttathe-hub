@@ -16,10 +16,19 @@ const library = [
   },
 ];
 
-const numberOfBooksRead = () => {
+/*const numberOfBooksRead = () => {
   // write your code here
 	
-};
+};*/
+let numbersOfBooks = 0;
+library.toEach((book) => {
+	if(book.reading status) numbersOfBooks ++;
+		
+	}
+		
+	}
+	
+}
 
 // Do not change the code below
 
