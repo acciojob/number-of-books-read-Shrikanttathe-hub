@@ -24,7 +24,7 @@ let numberOfBooksRead  = 0 ;
 library.forEach((book) => {
     if(book.readingStatus) numberOfBooksRead ++;
 })
-//console.log(numberOfBooksRead);
+console.log(numberOfBooksRead);
 
 */
 
